@@ -8,8 +8,11 @@ The complaint which the user lodges should be stored in the Database using JDBC.
 Kindly Go Through the Word File.
 
 You can reach out to me here:
+
 LinkedIn:https://www.linkedin.com/in/tejasghalsasi
+
 Facebook:https://www.facebook.com/tejasghalsasi
+
 Twitter:https://twitter.com/tejasghalsasi
 
 This Project is licensed under GNU GPL V3
